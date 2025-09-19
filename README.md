@@ -16,7 +16,7 @@ To get started with NewApp, follow these simple steps:
 
 1.  Clone the repository:
     ```
-    git clone https://github.com/soccera1/newapp.git
+        git clone https://github.com/soccera1/newapp.git
     ```
 2.  Install the dependencies:
     ```
@@ -26,6 +26,20 @@ To get started with NewApp, follow these simple steps:
 3.  Start the application:
     ```
     npm start
+    ```
+
+## Configuration
+
+Before starting the application, you will need to provide your Gemini API key.
+
+1.  Navigate to the `server` directory:
+    ```
+    cd newapp-project/server
+    ```
+2.  Create a new file named `.env`.
+3.  Add the following line to the `.env` file, replacing `YOUR_API_KEY` with your actual Gemini API key:
+    ```
+    GEMINI_API_KEY=YOUR_API_KEY
     ```
 
 ## Disclaimer
