@@ -16,7 +16,7 @@ To get started with NewApp, follow these simple steps:
 
 1.  Clone the repository:
     ```
-    git clone https://github.com/your-username/newapp.git
+    git clone https://github.com/soccera1/newapp.git
     ```
 2.  Install the dependencies:
     ```
