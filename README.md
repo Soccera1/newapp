@@ -16,7 +16,7 @@ To get started with NewApp, follow these simple steps:
 
 1.  Clone the repository:
     ```
-        git clone https://github.com/soccera1/newapp.git
+    git clone https://github.com/soccera1/newapp.git
     ```
 2.  Install the dependencies:
     ```
@@ -45,3 +45,7 @@ Before starting the application, you will need to provide your Gemini API key.
 ## Disclaimer
 
 NewApp is an AI-generated application. By using NewApp, you agree to our terms of service and privacy policy.
+
+## License
+
+NewApp is dual-licensed. You may choose to use this software under the terms of either the NewApp Un-License (see the `LICENSE` file) or the GNU Affero General Public License v3.0 (see the `LICENSE.AGPL` file).
